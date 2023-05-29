@@ -13,3 +13,5 @@ Example:
 python3 tree.py ~/dev > out.html
 
 Open out.html in a browser to view the results.
+
+Licensed under the MIT License.
