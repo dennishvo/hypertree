@@ -10,6 +10,6 @@ Usage: python3 tree.py [--show-hidden] <directory_path>
 
 Example:
 
-python3 tree.py ~/Dev > out.html
+python3 tree.py ~/dev > out.html
 
 Open out.html in a browser to view the results.
